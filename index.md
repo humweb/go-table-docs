@@ -9,18 +9,18 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /get-started
+      link: /introduction
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Vue Table Component
+      link: https://github.com/humweb/inertia-vue-table
 
 features:
   - title: Filters
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Filter by text or select list of options
   - title: Searching
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Search specific columns or across many at the same time
   - title: Relationships
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+    details: Eager load relationships globally or at runtime
 ---
 
 ![Screen Shot](./img/preview.png)
