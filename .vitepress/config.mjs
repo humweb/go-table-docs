@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Go Tables",
   description: "Companion backend to inertia vue tables frontend",
+  base: '/go-table-docs/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
